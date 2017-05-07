@@ -16,9 +16,8 @@
       <pubDate>Thu, 20 Apr 2017 08:02:00 -0900</pubDate>
       
       <guid>http://blog.hoxo-m.com/HOXOMinc-blog/2017/04/20/config/</guid>
-      <description>&lt;!-- BLOGDOWN-BODY-BEFORE
+      <description>&lt;link href=&#34;/HOXOMinc-blog/HOXOMinc-blog/rmarkdown-libs/font-awesome/css/font-awesome.min.css&#34; rel=&#34;stylesheet&#34; /&gt;
 
-/BLOGDOWN-BODY-BEFORE --&gt;
 
 &lt;style type=&#34;text/css&#34;&gt;
 dt {
@@ -123,18 +122,6 @@ conf &amp;lt;- config::get()&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;面倒な環境変数の管理にconfigパッケージ! 是非っ!!&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-
-
-
-&lt;!-- BLOGDOWN-HEAD
-
-&lt;link href=&#34;#####../content/post/config_files/font-awesome-4.5.0/css/font-awesome.min.css&#34; rel=&#34;stylesheet&#34; /&gt;
-
-
-
-
-
-/BLOGDOWN-HEAD --&gt;
 </description>
     </item>
     
